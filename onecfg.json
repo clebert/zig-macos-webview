@@ -1,0 +1,8 @@
+{
+  "extends": [
+    "https://raw.githubusercontent.com/clebert/onecfg-lib/main/lib/onecfg-editorconfig.json",
+    "https://raw.githubusercontent.com/clebert/onecfg-lib/main/lib/onecfg-git.json",
+    "https://raw.githubusercontent.com/clebert/onecfg-lib/main/lib/onecfg-vscode.json",
+    "https://raw.githubusercontent.com/clebert/onecfg-lib/main/lib/onecfg-zig.json"
+  ]
+}
